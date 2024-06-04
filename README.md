@@ -3,6 +3,7 @@ Guides
 
 Please follow the following command to run the project in which is given below:
 
+    clone the project by command : git clone https://github.com/tanmoy069/AuthUser.git
     pull from main branch
     change the datasource url from 127.0.0.1 to your mysql ip
     docker compose down
